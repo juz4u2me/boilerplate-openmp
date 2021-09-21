@@ -1,5 +1,5 @@
 # Boilerplate Setup for OpenMP parallel programming with WSL/WSL2 Ubuntu and Visual Studio Code
-This git remote add origin https://github.com/juz4u2me/boilerplate-openmp.git.
+This boilerplate code provides the installation instructions and tasks.json configuration in VSC for OpenMP programming.
 
 ## Install on Ubuntu / Windows 10 + WSL/WSL2
 ```
