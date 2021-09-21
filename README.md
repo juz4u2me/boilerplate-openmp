@@ -1,12 +1,12 @@
 # Boilerplate Setup for OpenMP parallel programming with WSL/WSL2 Ubuntu and Visual Studio Code
-This boilerplate code provides the installation instructions and tasks.json configuration in VSC for OpenMP programming.
+This git remote add origin https://github.com/juz4u2me/boilerplate-openmp.git.
 
 ## Install on Ubuntu / Windows 10 + WSL/WSL2
-'''
+```
 $ sudo apt install -y g++
 $ sudo apt install -y build-essential
 $ sudo apt install libomp-dev
-'''
+```
 
 ## C/C++ support for Visual Studio Code is provided by a Microsoft C/C++ extension to enable cross-platform C and C++ development on Windows, Linux, and macOS.
 ## Install the extension
