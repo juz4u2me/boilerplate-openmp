@@ -6,6 +6,7 @@ This boilerplate code provides the installation instructions and tasks.json conf
 $ sudo apt install -y g++
 $ sudo apt install -y build-essential
 $ sudo apt install libomp-dev
+$ sudo apt install libboost-all-dev
 ```
 
 ## C/C++ support for Visual Studio Code is provided by a Microsoft C/C++ extension to enable cross-platform C and C++ development on Windows, Linux, and macOS.
